@@ -1,22 +1,16 @@
 image,prompt,moondream_inference
+9701 ARIANA TRIBAL 2.9 X 11.9.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A long red rug with a geometric pattern on it.
 Astro Plum.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",The rug in the picture has a geometric pattern of circles on it.
-17627 VINTAGE  5.8 X 8.5..jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",A grey and white rug with a floral design in it.
-8623 – Grass.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",A rug with a geometric pattern of gray and brown.
 17630 VINTAGE  4.5 X 6.3.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -47,12 +41,6 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A rug with a geometric pattern on it.
-10120 Modern W&S 9’8″ x 14′.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",The rug has a geometric pattern and is made of wool.
 10130 Modern W&S 9’8″ x 13’11”.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -89,6 +77,12 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A beige rug with a geometric pattern on it.
+17776 VINTAGE  6.6 X 9.6.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey oriental style rug with a geometric pattern.
 12871 Kurdish Circa 1890.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -107,12 +101,6 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A rug with a geometric pattern of flowers and leaves on it.
-17767 FINE VINTAGE TEBRIZ 10’2″ X 13’8″.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",A rug with a geometric pattern on it.
 8610 – Modern Woo & Silk.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -143,12 +131,6 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A grey and white rug with a basketball pattern on it.
-2238 Traditional Keshan 9’10” x 12’8″.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-","A large, red Oriental rug with a geometric pattern."
 ABS – 2.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -161,6 +143,12 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A rug with a geometric pattern in purple and gray.
+12205 Cinar Silk 3’1″ x 4’11”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A blue and brown paisley rug with a geometric pattern.
 Landmark.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -173,6 +161,12 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A rug with a geometric pattern on it.
+9770 Traditional Mamlouk 10’1″ x 12’10”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","A large, colorful rug with a geometric pattern on it."
 12360 – Tika Wool & Silk.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -185,24 +179,18 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",The rug has a tree on it and is red and yellow.
-10106 – Modern Wool & Silk.jpeg,"
+8644 – Lines Woo & Silk.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
-",The rug has a geometric pattern on it.
+",A rug with a geometric pattern and beige dominant colors.
 10832 – Modern.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",The rug in the picture has a geometric pattern and is made of wool.
-14556 Baluch Circa 1890.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",A brown and black rug with a geometric pattern on it.
 12365 – Amelia Crimson.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -215,12 +203,6 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A grey rug with a floral pattern is on display.
-17782 VINTAGE  8.1 X 11.3.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",The rug has a diamond pattern and is made of wool.
 16086 ARIANA SERAPI 9’9″ X 14′.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -257,12 +239,12 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",The rug has a geometric pattern and is made of wool.
-16405 VINTAGE  3.10 X 9.jpeg,"
+Halo Metok.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
-",The rug in the picture has a geometric pattern and is made of wool.
+",The rug has a geometric pattern and is made of wool.
 16438  3.5 X 10.5.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -317,6 +299,12 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",The rug has an abstract design with brown and grey colors.
+9519 – Cherry Tree Crimson.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a nature theme with red flowers on it.
 8796 – Modern Wool & Silk.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -365,12 +353,6 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ","A rug with a geometric pattern in red, blue and white."
-9701 Ariana Floral 2’10” x 9’6″.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",A long white rug with a flower design on it.
 17448 ARIANA BIDJAR 10 X 13’10”.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -395,12 +377,6 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A rug with a geometric pattern is shown.
-9541 – Modern Wool & Silk.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",The rug has a geometric pattern and is made of natural fibers.
 8111 Traditional Batiari 10’3″ x 13’9″.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -485,6 +461,12 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A large rug with a geometric pattern on it.
+17796 VINTAGE  6.11 X 9.8.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug in the picture has a geometric pattern and is made of wool.
 5031 – Metok Crimson Wool & Silk.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -545,12 +527,6 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A rug with a geometric pattern is displayed.
-10182 – Modern Sari Silk.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",A colorful geometric pattern rug with a dominant color of green.
 12205 Cinar Silk 3′ x 5′.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -605,12 +581,6 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ",A rug with a geometric pattern and blue and gray tones.
-11383 Vintage Oushak Floral 9’1″ x 10’8″.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",A rug with a nature theme.
 Domain – Tibetan Rug From Nepal – 10181.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -641,12 +611,6 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ","A large, ornate rug with a geometric pattern in shades of red and black."
-13599 Kazak Caucasian Circa 1880.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",The rug has a geometric pattern and is made of wool.
 12366 – Abs – 5.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
@@ -725,12 +689,6 @@ Assuming you are a store assistant please analyze the item in the picture.
  Please restrict the product description to 100 words. 
  For theme please return any special characteristics like nature, geometric, abstract etc. 
 ","A grey paisley rug with a floral design in orange, red and yellow."
-10097 FINE MAMLUK 9’1″X11’11”.jpeg,"
-Assuming you are a store assistant please analyze the item in the picture.
- Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
- Please restrict the product description to 100 words. 
- For theme please return any special characteristics like nature, geometric, abstract etc. 
-",A rug that has a geometric pattern on it.
 8601 – Modern Wool & Silk.jpeg,"
 Assuming you are a store assistant please analyze the item in the picture.
  Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
