@@ -1,0 +1,1376 @@
+image,prompt_moondream,moondream_inference,prompt_gpt,gpt4_inference
+9701 ARIANA TRIBAL 2.9 X 11.9.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A long red rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'blue', 'beige', 'black'], 'style': 'traditional', 'description': 'This is a traditional hand-woven runner rug, likely of Persian origin. It features intricate patterns and symmetrical geometric shapes, bordered by detailed motifs. The craftsmanship suggests it may be antique, adding to its decorative appeal.', 'material': 'wool', 'suggested_title': 'Traditional Persian Runner Rug', 'theme': 'geometric'}"
+Astro Plum.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug in the picture has a geometric pattern of circles on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['light blue', 'purple'], 'style': 'contemporary', 'description': 'This contemporary rug features an artistic and abstract expression with circular patterns in light blue and purple shades, offering a fresh take on a classic motif.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Artistic Abstract Circular Pattern Rug', 'theme': 'abstract'}"
+17630 VINTAGE  4.5 X 6.3.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a diamond pattern and a gray background.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'blue', 'white', 'pink'], 'style': 'traditional', 'description': 'This traditional-style rug features symmetric ornamental patterns with subtle floral elements. Its vintage appeal and faded look suggest a modern take on classic designs, providing an elegant touch to any room setup. Perfect for adding a sense of history and sophistication.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Vintage Elegance Ornamental Rug', 'theme': 'traditional, floral, ornamental'}"
+17777 VINTAGE  4.2 X 7.9.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern in shades of blue and gray.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'gray', 'white'], 'style': 'traditional', 'description': ""This area rug features an elegant traditional design with a distressed look for a touch of vintage appeal. It's perfect for adding a classic yet modern touch to any room."", 'material': 'synthetic fibers', 'suggested_title': 'Distressed Vintage Traditional Area Rug', 'theme': 'vintage, floral, ornamental'}"
+Kulu.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'charcoal', 'silver'], 'style': 'modern', 'description': 'This modern rug features an abstract floral design with overlapping shapes in various shades of gray and silver. The distressing effect adds visual texture and depth to the piece.', 'material': 'synthetic fibers', 'suggested_title': 'Abstract Floral Grayscale Area Rug', 'theme': 'abstract nature'}"
+12355 – Modern Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has an abstract geometric pattern.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'white', 'black'], 'style': 'modern', 'description': 'This contemporary rug features a blend of modern grey tones, complemented by a distinctive, abstract pattern. The design offers a versatile and aesthetically pleasing look that can suit various interior styles from minimalist to industrial.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Abstract Grey Tones Modern Rug', 'theme': 'abstract'}"
+17109 VINTAGE USAK 10’2″ X 13’11”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'light brown', 'ivory'], 'style': 'traditional', 'description': ""This is a traditional rectangular rug with a subtle, elegant design. It features ornate detailing with what appears to be floral and geometric motifs. The rug's light color palette suggests it could seamlessly complement various interior design schemes without overwhelming the space."", 'material': 'likely wool or a wool blend', 'suggested_title': 'Elegant Traditional Beige Area Rug', 'theme': 'floral, geometric, ornate'}"
+10130 Modern W&S 9’8″ x 13’11”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a red and yellow background with some other colors as well.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'Rectangle', 'dominant_colors': ['Red', 'Beige', 'Brown', 'White'], 'style': 'Modern', 'description': 'This contemporary rug features an abstract design with a rich blend of red, beige, brown, and white. The pattern resembles a dynamic, paint splatter effect, offering a bold statement to any room.', 'material': 'Unknown from the image', 'suggested_title': 'Abstract Paint Splatter Rug', 'theme': 'Abstract'}"
+10831 – Gabbeh.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A red and blue and yellow quilt with a red border.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'blue', 'yellow', 'green', 'beige'], 'style': 'modern', 'description': 'This area rug features a vibrant and playful geometric pattern with a patchwork of colored blocks. The construction appears to be of high quality, suitable for well-trafficked areas while adding a pop of color to any room.', 'material': 'textile, likely wool or a wool blend', 'suggested_title': 'Multicolored Geometric Patchwork Area Rug', 'theme': 'geometric'}"
+17790 VINTAGE  7.2 X 10.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey oriental style rug with pink and green geometric shapes.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'white', 'black', 'red'], 'style': 'traditional', 'description': 'This traditionally styled rug features a complex, ornate design with subtle pops of red that give a modern twist. Its distressed finish adds character, suggesting an antique look that complements both contemporary and classic interiors.', 'material': 'synthetic fibers', 'suggested_title': 'Antique-Style Ornate Area Rug with Modern Accents', 'theme': 'traditional, ornamental, distressed'}"
+17344 ANTIQUE MAMLUK 10′ X 13’9″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern is displayed.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'blue', 'beige', 'brown'], 'style': 'traditional', 'description': 'This is a traditionally designed area rug featuring intricate patterns and a multi-layered border. It incorporates ornamental elements with central medallion, creating an elegant and timeless piece. Suitable for classic and sophisticated interior decor.', 'material': 'Possibly wool or a wool blend', 'suggested_title': 'Traditional Medallion Area Rug', 'theme': 'oriental, medallion, decorative'}"
+8761 – Sanam Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with an abstract geometric design on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'gray', 'off-white'], 'style': 'contemporary', 'description': ""This is a contemporary area rug featuring a pattern of assorted elliptical shapes in neutral tones. It can add a subtle yet modern touch to any room's decor."", 'material': 'likely synthetic or wool blend', 'suggested_title': 'Modern Elliptical Shapes Area Rug', 'theme': 'geometric'}"
+8615 – Modern Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A beige rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'tan'], 'style': 'contemporary', 'description': 'This chic rectangular rug boasts a subtle geometric pattern, creating a serene ambiance suitable for modern living spaces. Its plush texture adds comfort underfoot, integrating seamlessly into minimalist or sophisticated decor.', 'material': 'synthetic or wool blend', 'suggested_title': 'Modern Geometric Rectangular Rug', 'theme': 'geometric'}"
+17776 VINTAGE  6.6 X 9.6.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey oriental style rug with a geometric pattern.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'white', 'blue'], 'style': 'traditional', 'description': 'This elegant area rug features a traditional oriental design with a modern color palette. The intricate pattern is delicately distressed, offering a vintage feel with a contemporary twist. Perfect for adding a touch of elegance to any room.', 'material': 'synthetic fibers', 'suggested_title': 'Modern Traditional Distressed Oriental Area Rug', 'theme': 'distressed, oriental, vintage'}"
+12871 Kurdish Circa 1890.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['navy blue', 'burnt orange', 'beige', 'olive green'], 'style': 'traditional', 'description': 'This traditional rug features a rich, striking pattern with geometric motifs in a symmetrical arrangement. Its warm and inviting colors evoke a sense of antique elegance, perfect for adding a timeless touch to any room.', 'material': 'wool', 'suggested_title': 'Antique Geometric Symmetry Wool Rug', 'theme': 'geometric, traditional'}"
+12352 – Abs – 4.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has an abstract painting on it and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'white', 'blue', 'yellow', 'black'], 'style': 'abstract', 'description': 'This abstract painting features a blend of gray, white, blue, yellow, and black strokes on canvas, creating an immersive and textured look. The artwork provokes thought through a random yet harmonious interplay of colors.', 'material': 'canvas', 'suggested_title': 'Abstract Color Fusion', 'theme': 'abstract'}"
+10187 Vintage Serapi 7’9″ x 10’2″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern of flowers and leaves on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['black', 'gold'], 'style': 'traditional', 'description': 'This elegant rectangular area rug features a sophisticated traditional pattern with intricate florals and vine motifs. The gold designs on a black background create a striking contrast, adding a luxurious feel to any room. Perfect for adding warmth and timeless style to your living space.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Floral Vine Area Rug', 'theme': 'floral, traditional'}"
+8610 – Modern Woo & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A beige and white rug with a flowery pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'cream'], 'style': 'traditional', 'description': 'This elegant traditional-style rug features a floral pattern with detailed botanical motifs. The gentle beige and cream hues lend a neutral yet warm tone, perfect for adding a refined touch to any room without overpowering the space with color.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Floral Elegance Area Rug', 'theme': 'floral, botanical'}"
+6103-Over Dyed -10×13.5.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a purple and black geometric pattern.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['purple', 'violet'], 'style': 'traditional', 'description': 'This is a rectangular, traditional-style area rug featuring intricate floral patterns. The rug showcases various shades of purple and violet, creating a luxurious and regal feel. It appears to be suitable for adding a classic touch to modern and conventional interiors alike.', 'material': 'unknown', 'suggested_title': 'Regal Purple Floral Area Rug', 'theme': 'floral'}"
+17799 VINTAGE  6.9 X 9.3.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a grey and red background is shown.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'silver', 'white'], 'style': 'modern', 'description': 'This is a contemporary area rug with a subtle, distressed pattern. With its muted gray and silver color palette, it adds a touch of understated elegance to any room. The rug appears to be a versatile piece suitable for various decor styles.', 'material': 'synthetic or wool blend', 'suggested_title': 'Modern Distressed Silver-Gray Area Rug', 'theme': 'minimalist'}"
+10117 Traditional Bokhara 6’9″ x 9’7″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A large rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'black', 'orange'], 'style': 'traditional', 'description': ""This traditional rug features a rich red field with ornate black geometrical medallions flanked by intricate borders. It's a testament to fine craftsmanship and timeless design suitable for a variety of interiors."", 'material': 'wool', 'suggested_title': 'Traditional Geometric Medallion Rug', 'theme': 'geometric'}"
+Godiva.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and white rug with a basketball pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'white'], 'style': 'modern', 'description': 'This modern area rug features an elegant geometric pattern with a contrasting border. Perfect for contemporary and minimalist interiors, its grey and white colors offer a neutral palette that complements a variety of room decors.', 'material': 'synthetic', 'suggested_title': 'Contemporary Geometric Grey Area Rug', 'theme': 'geometric'}"
+ABS – 2.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'beige', 'gray', 'brown'], 'style': 'contemporary', 'description': 'This contemporary rug features a distressed look with a blend of blue, beige, gray, and brown hues. The abstract design suggests a modern artistic expression and a worn texture that adds character and a vintage feel.', 'material': 'likely synthetic fibers', 'suggested_title': 'Abstract Distressed Contemporary Rug', 'theme': 'abstract'}"
+17787 VINTAGE  8.3 X 12.8.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern in purple and gray.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['purple', 'blue', 'grey'], 'style': 'vintage', 'description': 'This rectangular area rug features a distressed vintage design with a central medallion and intricate border patterns. Its purple, blue, and grey color palette provides a subdued yet elegant look that blends well with various decor styles.', 'material': 'synthetic fibers', 'suggested_title': 'Vintage Distressed Medallion Area Rug', 'theme': 'traditional'}"
+12205 Cinar Silk 3’1″ x 4’11”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A blue and brown paisley rug with a geometric pattern.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'navy', 'black', 'white', 'gold'], 'style': 'traditional', 'description': ""This is a traditionally styled rectangular rug featuring intricate patterns with floral and paisley motifs. Its deep blue, navy, black, and gold tones provide a sense of elegance, and its tight weave ensures durability. The rug's border is detailed, framing a classic symmetrical design."", 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Elegance Rectangular Rug', 'theme': 'floral, ornate, paisley'}"
+Landmark.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of natural fibers.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'beige', 'yellow', 'white'], 'style': 'contemporary', 'description': 'This contemporary rug features a distressed pattern with a blend of neutral and warm tones. Its design is versatile, fitting for both modern and casual interiors. Soft to the touch yet durable.', 'material': 'Synthetic fibers', 'suggested_title': 'Modern Distressed Area Rug', 'theme': 'abstract'}"
+10103 Modern Tibetan Wool & Silk 10′ x 14’2″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'brown', 'cream'], 'style': 'contemporary', 'description': 'This contemporary rug features a minimalist design with a gradient of beige to brown tones. The bottom portion showcases a detailed geometric pattern, while the top fades into a solid cream hue. It is versatile and suitable for various interior styles.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Contemporary Geometric Gradient Rug', 'theme': 'geometric, gradient'}"
+9770 Traditional Mamlouk 10’1″ x 12’10”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","A large, colorful rug with a geometric pattern on it.","
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'blue', 'beige', 'brown'], 'style': 'traditional', 'description': 'This highly detailed, traditional-style rug features intricate patterns with a striking central medallion. Its opulent design is reminiscent of classic Persian carpets, ideal for adding a touch of elegance to any room.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Medallion Persian Rug', 'theme': 'traditional, medallion, Persian, ornate, geometric'}"
+12360 – Tika Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern of dots in red and beige.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'beige'], 'style': 'traditional', 'description': 'This elegant traditional rug features a repetitive curvilinear pattern with a dominant red palette, complemented by beige dot-like motifs creating a rich contrast. The design is symmetrical and refined, making it suitable for a variety of interior spaces. It adds a warm and inviting touch to any room.', 'material': 'unknown, appears to be a textile fiber', 'suggested_title': 'Traditional Curvilinear Pattern Rug', 'theme': 'geometric'}"
+20283 – Bodhi Crimson.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a tree on it and is red and yellow.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'beige'], 'style': 'contemporary', 'description': 'This is a rectangular, contemporary rug featuring a stylized botanical design. The beige floral pattern contrasts against a rich red background, creating an eye-catching and elegant piece suitable for various interiors.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Botanical Elegance Contemporary Rug', 'theme': 'botanical, nature-inspired'}"
+8644 – Lines Woo & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern and beige dominant colors.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'gold'], 'style': 'modern', 'description': 'This modern rug features a simple yet elegant design with horizontal golden lines on a beige background. The minimalist styling suits a variety of interiors, adding a touch of sophistication without overwhelming the space.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Golden Lines Modern Beige Rug', 'theme': 'abstract'}"
+10832 – Modern.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug in the picture has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'cream', 'grey'], 'style': 'vintage', 'description': 'This rectangular rug features a distressed vintage design with a blend of blue, cream, and grey hues, giving it a faded, timeless look. It is ideal for adding a touch of elegance to any room.', 'material': 'synthetic fibers', 'suggested_title': 'Vintage Distressed Area Rug', 'theme': 'abstract'}"
+12365 – Amelia Crimson.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a nature theme with orange and white colors.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'square', 'dominant_colors': ['red', 'white'], 'style': 'traditional', 'description': 'This square-shaped item features a vibrant red background with intricate white traditional patterns adorning the edges, possibly hinting at a cultural or historical significance. Its use could vary from a decorative wall hanging, a tablecloth, to a light throw, adding an elegant touch to home decor.', 'material': 'fabric', 'suggested_title': 'Traditional Red and White Patterned Square Textile', 'theme': 'cultural, patterned'}"
+16430  2.6 X 9.4.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey rug with a floral pattern is on display.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'white', 'black'], 'style': 'traditional', 'description': 'This is a traditionally styled runner rug featuring intricate patterns with a predominantly gray color palette, highlighted by white and black accents. Offering a vintage aesthetic, this rug can enhance hallways and elongated spaces with its elegant design and fine detailing.', 'material': 'fabric, likely a blend or synthetic fiber for durability', 'suggested_title': 'Traditional Gray Intricate Pattern Runner Rug', 'theme': 'vintage, patterned, decorative'}"
+16086 ARIANA SERAPI 9’9″ X 14′.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A red and grey rug with a black and white design.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'beige', 'black', 'gray'], 'style': 'traditional', 'description': 'This high-quality area rug features a traditional design with a rich red field and intricate floral and geometric motifs in beige, black, and gray. The detailed border adds elegance and a classic touch, making it a perfect addition to any living space or formal area.', 'material': 'likely wool or wool blend', 'suggested_title': 'Traditional Floral Medallion Wool Area Rug', 'theme': 'floral, geometric, traditional'}"
+10178 – BODHI EARTH.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a nature theme with a branch design.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'brown'], 'style': 'minimalist', 'description': 'This is a rectangular piece featuring a simplistic botanical design. The subtle use of beige and brown tones creates a soothing aesthetic, perfect for minimalistic or nature-themed spaces. It appears to be a rug or a tapestry.', 'material': 'fabric', 'suggested_title': 'Botanical Elegance Art Piece', 'theme': 'nature'}"
+6896 Tibetan Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern of trees on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'grey', 'white', 'brown'], 'style': 'contemporary', 'description': 'This contemporary area rug features a bold stripe pattern with a brushed effect in neutral shades of beige, grey, brown, and white. It adds a modern touch to any living space.', 'material': 'synthetic fibers', 'suggested_title': 'Modern Striped Area Rug', 'theme': 'geometric'}"
+ABS-4.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'grey', 'beige'], 'style': 'contemporary', 'description': ""This contemporary rug features an abstract design with a blend of blue, grey, and beige tones, creating a modern, artistic feel. It's perfect for adding a touch of elegance and sophistication to any living space."", 'material': 'synthetic fibers', 'suggested_title': 'Modern Abstract Artistic Rug', 'theme': 'abstract'}"
+9701 ARIANA TRIBAL  2.10 x 9.8.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","A long, red, black and white rug with a geometric pattern.","
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'black', 'white', 'blue'], 'style': 'traditional', 'description': 'This traditional runner rug features intricate patterns and symbols in a symmetrical design, with red as the primary background color edged by detailed borders. It appears handcrafted, suggesting a rich cultural heritage.', 'material': 'wool', 'suggested_title': 'Traditional Handcrafted Wool Runner Rug', 'theme': 'ethnic, geometric, cultural'}"
+9517 – Modern Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'black', 'white', 'beige'], 'style': 'contemporary', 'description': 'This contemporary area rug features an abstract design with a painterly, distressed look, ideal for modern and transitional interiors. Versatile in its color palette, it easily complements a variety of room settings.', 'material': 'likely synthetic or a blend', 'suggested_title': 'Abstract Painterly Area Rug', 'theme': 'abstract'}"
+Halo Metok.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'blue', 'white'], 'style': 'contemporary', 'description': 'This contemporary area rug features an abstract design with a blend of soft grey, blue, and white tones. Perfect for adding a modern touch to any room.', 'material': 'synthetic fibers', 'suggested_title': 'Modern Abstract Area Rug', 'theme': 'abstract'}"
+16438  3.5 X 10.5.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and red rug with a green diamond pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['pale blue', 'grey', 'pink'], 'style': 'vintage', 'description': 'This vintage-style rug features geometric and tribal patterns. Its muted colors and worn texture convey a sense of history and comfort, suitable for both modern and traditional interiors.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Vintage Geometric Tribal Rug', 'theme': 'tribal, geometric'}"
+Cherry Flower.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with an abstract design on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['orange', 'beige'], 'style': 'floral', 'description': 'This rectangular area rug features a vibrant floral pattern with orange blossoms and foliage on a neutral beige background. It can add a warm, inviting element to any room.', 'material': 'fabric', 'suggested_title': 'Orange Floral Blossom Area Rug', 'theme': 'nature'}"
+12205 CINAR SILK 10 X 14.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a flower design on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['navy blue', 'beige', 'cream', 'red', 'pink'], 'style': 'traditional', 'description': 'This exquisite traditional rug features intricate floral patterns and a central medallion, surrounded by an ornate border. Its craftsmanship showcases a time-honored weaving technique that produces a dense, finely-knotted pile, allowing for detailed designs.', 'material': 'likely wool or silk', 'suggested_title': 'Classic Traditional Medallion Rug', 'theme': 'floral, ornamental, symmetrical'}"
+10101 – Teker – 1.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'brown', 'white', 'pink'], 'style': 'modern', 'description': 'This modern-style rug features an abstract blend of red, brown, white, and pink shadings. Its design suggests a mix of eroded paint or a weathered mural, providing a unique and artistic touch to any living space.', 'material': 'presumably synthetic or wool blend', 'suggested_title': 'Abstract Erosion Area Rug', 'theme': 'abstract'}"
+12205.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",An antique rug with a blue and orange geometric pattern.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['rust', 'navy blue', 'ivory'], 'style': 'traditional', 'description': 'Elegant handwoven rug featuring a classic design with ornate border detailing. The intricate patterns offer a timeless appeal, ideal for adding warmth and sophistication to any room. ', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Ornate Handwoven Rug', 'theme': 'floral, ornamental'}"
+13207 Traditional Shall 9’1″ x 11’10”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern is displayed.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'blue', 'beige'], 'style': 'traditional', 'description': 'This traditional rug features a rich tapestry of deep reds and blues in a symmetrical striped pattern, interspersed with intricate tribal motifs and bordered design. Its vintage look brings warmth and character to any room.', 'material': 'likely wool', 'suggested_title': 'Traditional Tribal Motif Woolen Rug', 'theme': 'ethnic, tribal'}"
+16429  3 X 13.10.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and red carpet with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'blue', 'pink'], 'style': 'traditional', 'description': 'This is a traditional-style rug featuring symmetrical patterns with a blend of modern color tones. The design includes geometric motifs and soft color transitions, making it a versatile addition to any room. Ideal for creating a subtle and elegant atmosphere.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Geometric Pattern Rug in Modern Tones', 'theme': 'geometric, symmetrical'}"
+100 Days Of Summer.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'gray', 'white', 'black'], 'style': 'contemporary', 'description': 'This is a contemporary-style area rug featuring a dynamic, abstract brushstroke design. It can complement modern interiors, giving any room a touch of elegance and warmth.', 'material': 'synthetic fibers', 'suggested_title': 'Abstract Brushstroke Contemporary Area Rug', 'theme': 'abstract'}"
+10138 – Modern Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has an abstract design with brown and grey colors.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'brown', 'gold', 'ivory'], 'style': 'modern', 'description': ""This modern rug features a distressed design with a mix of beige, brown, gold, and ivory colors. Its abstract, brushstroke-like pattern brings an artistic and contemporary flair to any room. The rug's versatile color palette allows it to blend seamlessly into various decor styles."", 'material': 'likely synthetic or wool blend', 'suggested_title': 'Contemporary Abstract Distressed Rug', 'theme': 'abstract'}"
+9519 – Cherry Tree Crimson.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a nature theme with red flowers on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'white', 'black'], 'style': 'traditional', 'description': 'This is a traditionally styled area rug featuring a vibrant red background with a delicate pattern of white blossoming branches and small birds. It adds a touch of elegance and serenity to any room.', 'material': 'fabric', 'suggested_title': 'Red Floral Blossom Area Rug', 'theme': 'nature'}"
+8796 – Modern Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'blue', 'brown'], 'style': 'contemporary', 'description': 'This contemporary rug features a layered, distressed design with a blend of beige, blue, and brown hues. It evokes a sense of modern elegance while offering a softened touch of abstract art. Ideal for adding a calming aesthetic to any room.', 'material': 'synthetic fibers', 'suggested_title': 'Modern Abstract Layered Rug', 'theme': 'abstract'}"
+10211 Traditional Sultan Abbad 8’9″ x 12’2″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A large black and tan rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['black', 'gold', 'ivory', 'beige'], 'style': 'traditional', 'description': 'This exquisite traditional rug features intricate floral patterns with a decorative border. The meticulous design showcases a timeless elegance and is likely handwoven, adding a touch of sophistication and warmth to any room.', 'material': 'likely wool or a wool-silk blend', 'suggested_title': 'Traditional Floral Pattern Handwoven Rug', 'theme': 'floral, traditional, ornate'}"
+Cali Wave.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern of wavy lines in tan and gray.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'square', 'dominant_colors': ['beige', 'gray'], 'style': 'modern', 'description': 'This item is a modern-styled carpet featuring a continuous wavy pattern. It presents a minimalist design that combines soothing beige and gray colors to create a calm and elegant flooring option suitable for various interiors. The carpet is likely made from a blend of materials designed for durability and comfort.', 'material': 'synthetic blend', 'suggested_title': 'Modern Wavy Pattern Carpet', 'theme': 'geometric'}"
+12205 CINAR SILK 10 X 15.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A blue and tan Persian rug with a geometric pattern.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['Blue', 'Beige', 'Navy', 'Ivory'], 'style': 'Traditional', 'description': 'This is a traditional, hand-knotted oriental rug with an intricate floral pattern. The design features a central medallion surrounded by ornate borders. Suitable for classic and sophisticated interiors.', 'material': 'Wool or Silk', 'suggested_title': 'Traditional Oriental Medallion Rug', 'theme': 'Nature, Floral, Symmetry'}"
+12205 – 3′ x 5’2″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A blue and white carpet with a gold circle in the center.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'Rectangle', 'dominant_colors': ['Blue', 'White', 'Gold'], 'style': 'Traditional', 'description': 'This is a traditional rectangular rug featuring intricate patterns and a central medallion. The design incorporates cultural motifs and likely represents a style from the Middle Eastern or South Asian regions. It can be a statement piece in any room.', 'material': 'Synthetic or wool fibers', 'suggested_title': 'Traditional Oriental Medallion Rug', 'theme': 'Ethnic, Geometric, Cultural'}"
+17600 ariana heriz  10.5 x 14.1.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'teal', 'beige', 'black', 'pink'], 'style': 'traditional', 'description': ""This traditional-style rug features a symmetric, ornate pattern with a floral design. The detailed border complements the central theme, creating a harmonious and vintage appearance. It's suitable for adding a sophisticated touch to any room."", 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Floral-Patterned Rug', 'theme': 'floral, ornate'}"
+ABS – 8.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'grey', 'white', 'black'], 'style': 'modern', 'description': 'This modern rug features an abstract design with a blend of blue, grey, white, and black, creating a contemporary look that complements various decors.', 'material': 'polypropylene', 'suggested_title': 'Contemporary Abstract Splashes Area Rug', 'theme': 'abstract'}"
+12205 CINAR SILK 12 X 18’7″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","A rug with a geometric pattern in red, blue and white.","
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'blue', 'beige'], 'style': 'traditional', 'description': 'This traditional rug features an intricate design with a central medallion and detailed border. It showcases symmetrical floral patterns and foliage motifs, presenting a classical and elegant style. The rich color palette adds warmth and depth to any room.', 'material': 'wool', 'suggested_title': 'Traditional Medallion Wool Area Rug', 'theme': 'floral'}"
+17448 ARIANA BIDJAR 10 X 13’10”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A blue and red rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['navy blue', 'red', 'beige', 'orange', 'white'], 'style': 'traditional', 'description': 'This is a traditionally styled hand-knotted rug with intricate patterns and a rich, navy blue backdrop. The design boasts floral motifs and ornate borders. It brings an elegant and timeless look to any room.', 'material': 'wool', 'suggested_title': 'Traditional Hand-Knotted Wool Rug', 'theme': 'floral, ornamental'}"
+16425 VINTAGE  11 X 18.6.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and green runner rug with a diamond pattern.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'Rectangle', 'dominant_colors': ['Grey', 'Teal', 'White'], 'style': 'Traditional', 'description': 'This elegant runner rug features a traditional design with a modern color palette, perfect for adding a touch of sophistication to any hallway or narrow space. Intricate patterns and symmetrical medallion motifs give it a timeless appeal.', 'material': 'Polypropylene', 'suggested_title': 'Traditional Medallion Runner Rug in Grey and Teal', 'theme': 'Traditional, Medallion, Symmetrical'}"
+9172 Traditional Bidjar 8’10” x 11′.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A red and blue rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'blue', 'black'], 'style': 'traditional', 'description': 'This is an intricately designed traditional rug featuring a symmetrical pattern with geometric and botanical motifs. The craftsmanship suggests that it may be handwoven, making it both durable and rich in cultural heritage. It can serve as a focal point in any room, adding warmth and character to the space.', 'material': 'likely wool', 'suggested_title': 'Traditional Handwoven Geometric Rug', 'theme': 'ethnic, geometric, botanical'}"
+10174 Traditional Keshan 6’1″ x 9’1″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern is shown.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'blue', 'orange'], 'style': 'traditional', 'description': 'This is a traditional-style area rug featuring intricate patterns and an ornate border. Its detailed motifs are indicative of Persian-inspired designs, making it a sophisticated choice for classic home decor.', 'material': 'likely wool', 'suggested_title': 'Traditional Persian-Inspired Wool Area Rug', 'theme': 'oriental'}"
+8111 Traditional Batiari 10’3″ x 13’9″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A red and blue rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'red', 'orange', 'ivory'], 'style': 'traditional', 'description': 'This is a traditionally styled handwoven rug, featuring intricate patterns with floral motifs. The rich blue and red hues are complemented by orange and ivory accents, creating a warm and regal appearance.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Handwoven Floral Motif Rug', 'theme': 'floral, traditional, ornate'}"
+10222 – Modern Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['purple', 'white', 'blue', 'orange', 'gray'], 'style': 'modern', 'description': 'This modern rug features a blend of rich colors and a patchy, abstract pattern resembling a weathered look. The design might evoke a sense of contemporary art, adding texture and interest to any floor space.', 'material': 'synthetic fibers', 'suggested_title': 'Abstract Modern Art-Inspired Rug', 'theme': 'abstract'}"
+16408 VINTAGE  3 X 12.6.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'blue', 'gray'], 'style': 'vintage', 'description': 'This vintage-style area rug showcases a faded traditional design, creating an understated elegance perfect for modern and classic interiors. The intricate pattern and muted color palette offer versatility and a timeless aesthetic.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Classic Faded Vintage Area Rug', 'theme': 'traditional'}"
+16479 VINTAGE  6.7 X 9.9.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey oriental style rug with a geometric pattern.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangular', 'dominant_colors': ['gray', 'white'], 'style': 'vintage', 'description': 'This is a vintage-style rectangular area rug with a faded pattern, creating a subtle, elegant look perfect for a variety of interior designs. The design features what appears to be distressed, intricate floral and geometric motifs.', 'material': 'textile, likely a blend or synthetic for durability', 'suggested_title': 'Elegant Vintage-Style Area Rug', 'theme': 'floral, geometric, abstract'}"
+10207 Modern Silk 10′ x 14′.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has an abstract design with a mix of browns and oranges.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['brown', 'gray', 'beige', 'white'], 'style': 'modern', 'description': 'This is a contemporary area rug featuring a blend of modern colors and a dynamic, abstract pattern. Its design evokes an artistic flair, suitable for enhancing a variety of interior decors.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Modern Abstract Artistic Area Rug', 'theme': 'abstract'}"
+ABS – 14.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has an abstract design with a mix of orange and gray colors.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'orange', 'white'], 'style': 'modern', 'description': 'This contemporary rug features a blend of neutral grey and white tones with splashes of orange, creating an artistic and abstract design. The balance of colors and the pattern offer an aesthetic of modern elegance, suitable for various interiors.', 'material': 'synthetic fibers', 'suggested_title': 'Modern Abstract Artistic Rug', 'theme': 'abstract'}"
+Century Crimson.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'beige'], 'style': 'traditional', 'description': 'This area rug features a traditional design with a modern twist, showcasing intricate patterns in red on a beige background. Its medium pile offers a balance of comfort and ease of cleaning.', 'material': 'synthetic fibers', 'suggested_title': 'Traditional Red & Beige Area Rug', 'theme': 'floral'}"
+Butterfly.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and yellow butterfly rug.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'brown', 'rust', 'yellow', 'cream'], 'style': 'contemporary', 'description': 'This contemporary rug features a stylized butterfly design with geometric and organic elements, creating a bold visual statement. It is ideal for adding a touch of elegance and modern aesthetics to any room.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Stylized Butterfly Contemporary Area Rug', 'theme': 'nature-inspired, abstract'}"
+Kaveri.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['cream', 'blue', 'yellow'], 'style': 'contemporary', 'description': 'This contemporary rug features a subtly artistic pattern with soft, muted colors, blending seamlessly into a variety of decors. Ideal for adding warmth and texture.', 'material': 'synthetic fibers', 'suggested_title': 'Soft Hues Contemporary Artistic Rug', 'theme': 'abstract'}"
+9701 Ariana Khotan 2’8″ x 9’7″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","A long, narrow, plush rug with a geometric pattern in neutral colors.","
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'blue', 'pink', 'ivory'], 'style': 'traditional', 'description': 'This is a traditional-style runner rug featuring an ornate pattern with a symmetrical arrangement of floral motifs and intricate borders. It brings an elegant touch to any hallway or narrow space.', 'material': 'It appears to be wool or a wool blend, but the material is not clearly visible enough to confirm.', 'suggested_title': 'Traditional Floral Medallion Runner Rug', 'theme': 'floral'}"
+6020 Traditional Tebriz 10’2″ x 14’6″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a nature theme.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['Navy Blue', 'Pink', 'Beige', 'Orange', 'Green'], 'style': 'Traditional', 'description': 'This is a traditional-style area rug featuring an intricate floral pattern with a decorative border. The design includes elaborate foliage and floral motifs, creating a symmetrical arrangement that covers the entire field of the rug, giving it an elegant and timeless appeal.', 'material': 'Likely wool or a wool blend', 'suggested_title': 'Traditional Floral Pattern Area Rug', 'theme': 'Floral, Nature'}"
+9701 Ariana Mahal 2’7″ x 9’8″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A long black and red geometric patterned rug.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['Navy Blue', 'Red', 'Ivory'], 'style': 'Traditional', 'description': 'This runner rug features a rich navy blue background adorned with traditional motifs in red, ivory, and multiple accent colors. Its intricate design suggests a handcrafted origin, likely inspired by classic oriental patterns. Perfect for adding elegance and warmth to narrow spaces.', 'material': 'Wool', 'suggested_title': 'Traditional Oriental Runner Rug', 'theme': 'Ethnic, Geometric, Floral'}"
+13596 Kurdish Circa 1890.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern is displayed.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'Rectangle', 'dominant_colors': ['Brown', 'Beige', 'Rust', 'Ivory'], 'style': 'Traditional', 'description': ""This traditional handwoven rug features intricate geometric patterns and symbols. The rich earthy tones are complemented by detailed borders, giving it an antique appearance. It's perfect as a statement piece in a living room or study."", 'material': 'Wool', 'suggested_title': 'Antique Geometric Pattern Handwoven Wool Rug', 'theme': 'Geometric, Cultural'}"
+8617 – Minto Midnight.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A large rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'square', 'dominant_colors': ['navy blue', 'white'], 'style': 'contemporary', 'description': 'This is a contemporary style rug featuring a geometric pattern with navy blue as the primary color and white lines forming squares and rectangles. It is suitable for modern interiors.', 'material': 'likely a blend of wool or synthetic fibers', 'suggested_title': 'Navy Blue Geometric Patterned Rug', 'theme': 'geometric'}"
+17796 VINTAGE  6.11 X 9.8.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug in the picture has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'white', 'blue'], 'style': 'vintage', 'description': 'This is a vintage-style area rug featuring a distressed look with subtle patterns and muted colors. It adds a touch of elegance and antiquity to any room. Suitable for both modern and traditional decors.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Vintage Distressed Area Rug', 'theme': 'traditional, floral, distressed'}"
+5031 – Metok Crimson Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A red and white rug with a nature theme.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'square', 'dominant_colors': ['red', 'cream', 'beige'], 'style': 'traditional', 'description': 'This is a traditionally styled area rug featuring a floral pattern with large blooms and foliage. The rich red background is complemented by cream and beige flowers, creating a warm, inviting look suitable for classic home decor.', 'material': 'textile (exact material not specified)', 'suggested_title': 'Traditional Floral Area Rug', 'theme': 'floral, nature'}"
+17110 VINTAGE USAK 10′ X 13’1″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and yellow rug with a flowery pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'blue', 'gold'], 'style': 'traditional', 'description': 'This traditional rectangular rug features a central field with intricate floral patterns, surrounded by a detailed border. The design showcases a symmetrical layout with botanical motifs, providing a classic and elegant appeal suitable for various interiors.', 'material': 'likely wool', 'suggested_title': 'Elegant Traditional Floral Rug', 'theme': 'floral, nature'}"
+2273 – Floral Tibetan.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a nature theme with a geometric pattern.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'tan', 'light brown'], 'style': 'traditional', 'description': 'This is a traditional-style area rug featuring a subtle floral design. The design is embossed or slightly raised, offering a soft texture underfoot. The monochromatic color scheme provides a versatile addition to any room, complementing various interior decors without overwhelming them.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Floral Embossed Area Rug', 'theme': 'floral, nature-inspired'}"
+9807 – Modern Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug in the picture has a brick pattern and is made of natural fibers.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'gray', 'taupe'], 'style': 'contemporary', 'description': ""This rectangular area rug features a subtle, textured pattern, giving an impression of understated elegance. It's ideal for modern interiors, adding warmth and a touch of sophistication. The tightly woven fabric promises durability and ease of maintenance."", 'material': 'synthetic fibers', 'suggested_title': 'Modern Textured Beige & Gray Area Rug', 'theme': 'minimalist'}"
+12205 – 3’2″ x 4’11”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern in blue and tan.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['teal', 'beige', 'navy blue', 'ivory'], 'style': 'traditional', 'description': 'Luxurious rectangular area rug with intricate floral and vine patterns throughout, bordered by detailed guard bands. Ideal for adding a touch of classic elegance to any room.', 'material': 'likely wool, possibly with silk accents', 'suggested_title': 'Traditional Floral Pattern Teal Area Rug', 'theme': 'floral, traditional, ornate'}"
+12205 Cinar Silk 1001 Nights 6′ x 9’2″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern is displayed.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'brown', 'gray'], 'style': 'traditional', 'description': 'This rug features a detailed pattern with a combination of florals and intricate designs, suggesting a handcrafted item with a timeless appeal. It is likely suited for spaces that wish to convey a sense of classic elegance and sophistication.', 'material': 'wool', 'suggested_title': 'Classic Elegance Handcrafted Wool Rug', 'theme': 'floral, intricate, traditional'}"
+13550 – Serapi Modern.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'red', 'white'], 'style': 'modern', 'description': 'This modern rug features a distressed style, blending shades of gray and red to create a visually striking effect. Its pattern suggests a mix of urban decay and abstract art, adding to its contemporary appeal. Suitable for various interior designs, this rug can serve as a bold statement piece.', 'material': 'fabric', 'suggested_title': 'Distressed Urban Abstract Area Rug', 'theme': 'abstract'}"
+17774 VINTAGE  7.1 X 9.7.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug in the picture has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'pink', 'blue'], 'style': 'traditional', 'description': 'This traditional-style rug features a faded design with intricate patterns. The combination of gray, pink, and blue hues provides a subtle pop of color to any room. Perfect for adding a touch of vintage elegance.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Vintage Elegance Rug', 'theme': 'vintage, patterned, traditional'}"
+17104 VINTAGE USAK 9’10” X 13’7″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and yellow rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'beige', 'gold'], 'style': 'traditional', 'description': 'This rug features a classic oriental design with intricate patterns and a floral motif. The border is detailed and complements the central design, making it suitable for both contemporary and traditional interiors.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Oriental Floral Rug', 'theme': 'floral, orient'}"
+17792 VINTAGE  6.7 X 9.9.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern is displayed.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'black', 'white'], 'style': 'vintage', 'description': 'This vintage-style rug features an intricate pattern with a muted color palette, predominantly in shades of gray, black, and white, which gives it a classic and timeless appearance. The symmetric design is reminiscent of traditional Oriental carpets.', 'material': 'textile', 'suggested_title': 'Vintage Oriental Style Area Rug', 'theme': 'traditional, oriental'}"
+12205 Cinar Silk 3′ x 5′.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","A rug with a geometric pattern in shades of blue, orange and pink.","
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'pink', 'beige', 'black'], 'style': 'traditional', 'description': 'This is a traditional-style area rug featuring intricate patterns and a central medallion, surrounded by floral motifs and a detailed border. Suitable for classic and elegant interior decors.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Traditional Medallion Area Rug', 'theme': 'floral, ornate, medallion'}"
+14579 Kuba Caucasian Circa 1890.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'navy blue', 'beige', 'black', 'brown'], 'style': 'traditional', 'description': 'This is a traditional handwoven carpet featuring intricate designs. The craftsmanship displays precision and cultural heritage, perfect for adding warmth and artistic flair to any room.', 'material': 'wool', 'suggested_title': 'Traditional Handwoven Wool Carpet', 'theme': 'geometric, ethnic, ornamental'}"
+8641 – Naravan.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a nature theme with trees on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'square', 'dominant_colors': ['beige', 'black', 'white', 'gray'], 'style': 'contemporary', 'description': 'This modern area rug embodies a contemporary design with its depiction of stylized trees. The abstract silhouette of the trunks and branches in a monochromatic palette offers a minimalist aesthetic. Perfect for modern decor themes.', 'material': 'likely synthetic or a blend', 'suggested_title': 'Abstract Arbor Contemporary Rug', 'theme': 'nature, abstract'}"
+16404  2.10 X 10.10.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and brown runner is displayed with a description of it being a traditional style rug.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'grey', 'white'], 'style': 'traditional', 'description': 'This is a traditional-style area rug featuring intricate patterns and a bordered design. The palette is subdued with shades of blue, grey, and white, providing a calming aesthetic. It appears to be a fine example of craftsmanship suitable for a range of interiors.', 'material': 'fiber', 'suggested_title': 'Traditional Bordered Area Rug', 'theme': 'geometric'}"
+17111 VINTAGE USAK 10′ X 13’11”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a nature theme.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangular', 'dominant_colors': ['beige', 'brown', 'tan'], 'style': 'traditional', 'description': 'This traditionally styled rug features a subtle, faded pattern with floral and possibly geometric motifs. The gentle color palette is neutral, fitting a variety of interior designs. It appears to be an antique or vintage piece, suggesting it was crafted with care.', 'material': 'textile, likely wool or a wool blend', 'suggested_title': 'Antique Neutral Patterned Rug', 'theme': 'floral, faded, subtle, possibly geometric'}"
+10204 – Damask.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and black rug with a floral pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'black'], 'style': 'traditional', 'description': 'This rectangular rug features a traditional damask pattern with a fade effect for a vintage look. The intricate design in black contrasts against a soft beige background, providing an elegant and timeless aesthetic suitable for various interiors.', 'material': 'synthetic fibers', 'suggested_title': 'Traditional Damask Pattern Area Rug', 'theme': 'vintage'}"
+9223 – Modern.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'brown', 'cream', 'gray'], 'style': 'modern', 'description': 'This modern rug features an abstract, distressed pattern offering an aesthetically pleasing minimalist look. It complements contemporary and industrial decor, blending subtlety and elegance for various interior spaces.', 'material': 'synthetic fibers', 'suggested_title': 'Abstract Distressed Modern Rug', 'theme': 'abstract'}"
+16430 VINTAGE  2.5 X 9.4.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and white rug with an abstract design in it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'blue', 'white'], 'style': 'vintage', 'description': 'This rectangular rug features a vintage, distressed look with a faded grey and blue pattern, giving it an antique aesthetic. Intricate floral and geometric designs adorn this piece, making it suitable for a variety of interior decors. Its weathered appearance adds to its charm and character.', 'material': 'synthetic fibers', 'suggested_title': 'Vintage Distressed Grey and Blue Area Rug', 'theme': 'floral, geometric, traditional'}"
+Bonse.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern and blue and gray tones.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'blue'], 'style': 'modern', 'description': 'This is a modern rectangular area rug featuring a two-tone geometric lattice pattern. Its sleek, clean lines provide a contemporary look suitable for various interior design themes.', 'material': 'synthetic fibers', 'suggested_title': 'Contemporary Geometric Lattice Area Rug', 'theme': 'geometric'}"
+Domain – Tibetan Rug From Nepal – 10181.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern of squares in various colors.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'taupe'], 'style': 'contemporary', 'description': 'This rectangular rug features a taupe background with a lighter beige geometric pattern resembling a collection of abstract, variably sized rectangles and squares, evoking a modern and minimalist design.', 'material': 'Likely wool or a wool blend', 'suggested_title': 'Contemporary Geometric Beige-Taupe Rug', 'theme': 'geometric'}"
+16424  3.7 X 9.6.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey rug with a diamond pattern that is rectangular in shape.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'white', 'black'], 'style': 'vintage', 'description': 'This is a vintage-style rug with a worn texture and a distressed pattern. The design includes faded graphics and text, accentuating its retro aesthetic. Perfect for adding character to any modern or traditional space.', 'material': 'likely synthetic or cotton blend', 'suggested_title': 'Vintage Distressed Textured Rug', 'theme': 'abstract, textural'}"
+17797 VINTAGE  6.9 X 10.9.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['light gray', 'white'], 'style': 'vintage', 'description': 'This elegant rug features a vintage style with a faded floral motif that creates a sense of timeless charm. Perfect for adding a touch of sophistication to any room.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Vintage Elegance Floral Motif Rug', 'theme': 'floral, vintage'}"
+12205 Cinar Silk 1001 Nights 2’7″ x 4’1″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A very colorful rug with a geometric pattern.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['black', 'red', 'beige', 'blue', 'white'], 'style': 'traditional', 'description': 'This traditional-style rug features a series of intricate, multi-colored patterns with distinct borders, showcasing an array of arch motifs that could represent doorways or mihrabs.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Multicolored Patterned Rug with Arch Motifs', 'theme': 'architectural, traditional, cultural'}"
+14441 Karabagh Circa 1890.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","A large, ornate rug with a geometric pattern in shades of red and black.","
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['dark blue', 'red', 'beige', 'orange'], 'style': 'traditional', 'description': 'This traditional handwoven rug features intricate patterns with geometric and floral motifs. It showcases expert craftsmanship and a rich color palette, adding warmth and elegance to any room. Its size is suitable for a living room or large space.', 'material': 'wool', 'suggested_title': 'Traditional Handwoven Geometric Wool Rug', 'theme': 'ethnic, geometric, floral'}"
+12366 – Abs – 5.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'navy blue', 'gray'], 'style': 'contemporary', 'description': 'This area rug features a beige base with a grid of abstract squares in navy blue and gray. It presents a modern look with a handcrafted touch, suitable for various interior designs.', 'material': 'wool', 'suggested_title': 'Contemporary Abstract Square Pattern Wool Rug', 'theme': 'geometric'}"
+10199 – Harvest.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A beige placemat with a flowery pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'cream', 'tan'], 'style': 'contemporary', 'description': 'This rectangular rug features an elegant, subtle pattern with a modern touch. Its minimalist design includes organic shapes and lines, blending harmoniously with the neutral color palette.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Neutral Contemporary Patterned Rug', 'theme': 'nature-inspired abstract'}"
+17108 VINTAGE USAK 10’7″ X 13’11”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'brown', 'gold'], 'style': 'traditional', 'description': 'This traditional-style rug features a symmetrical pattern with Moroccan influences. The central design is ornamented with intricate, interlocking geometric and floral patterns, while the borders have a more streamlined, simpler motif.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Moroccan-Inspired Geometric Pattern Rug', 'theme': 'geometric, floral, and traditional'}"
+17106 VINTAGE USAK 10′ X 13’2″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'blue', 'gold'], 'style': 'traditional', 'description': ""This is a traditional-style area rug with a rectangular shape, featuring a beige base with subtle floral patterns and a decorative border. The design includes accents in shades of blue and gold, making it a versatile piece for various interior designs. It appears to be of a vintage or antique style, suggesting it could be a collector's item or a piece with historical value."", 'material': 'unknown', 'suggested_title': 'Traditional Floral Area Rug with Decorative Border', 'theme': 'floral, vintage'}"
+9701 Antique Hamadan 3’4″ x 15’3″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['beige', 'blue', 'orange', 'brown'], 'style': 'traditional', 'description': 'This is a traditional rectangular runner rug featuring intricate patterns. It displays detailed designs with floral motifs and border embellishments, adding a touch of elegance to any hallway or narrow space.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Floral Motif Runner Rug', 'theme': 'floral, ornamental'}"
+2286 – Arts And Crafts Tibetan.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","A large, hand made, tan and black rug with a geometric pattern.","
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'square', 'dominant_colors': ['beige', 'navy blue', 'brown'], 'style': 'traditional', 'description': 'This is a traditionally styled handcrafted rug featuring detailed geometric and floral patterns. Its craftsmanship suggests a high-quality piece suitable for elegant spaces. It provides both aesthetic appeal and functionality as floor decor.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Floral and Geometric Pattern Handcrafted Rug', 'theme': 'floral, geometric'}"
+6413 Traditional Oushak 10’2″ x 13’11”.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['black', 'pink', 'beige', 'white'], 'style': 'traditional', 'description': 'This rectangular area rug features a traditional design with an intricate floral pattern. The black central field is embellished with contrasting floral motifs, bordered by a detailed light border.', 'material': 'Likely wool or a wool blend', 'suggested_title': 'Traditional Floral Area Rug', 'theme': 'floral'}"
+Dream 2.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a geometric pattern and is gray and blue in color.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'grey', 'brown'], 'style': 'contemporary', 'description': 'This contemporary rug features a geometric pattern with a blend of blue, grey, and brown hues. It adds a modern touch to any room, providing both comfort and style. Its low pile offers ease of cleaning while maintaining a plush texture.', 'material': 'synthetic fibers', 'suggested_title': 'Modern Geometric Area Rug', 'theme': 'geometric'}"
+16412  3.8 X 10.8.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and blue rug with a diamond pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'white', 'grey'], 'style': 'traditional', 'description': 'This is a traditionally styled area rug, featuring intricate patterns with floral and geometric designs. The rug showcases a symmetrical layout with distinct borders, perfect for adding elegance to any room.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Traditional Floral and Geometric Patterned Area Rug', 'theme': 'floral, geometric, traditional'}"
+11811 Bidjar (Bijar) Circa 1890.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a diamond pattern is on display.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['black', 'red', 'orange', 'beige'], 'style': 'traditional', 'description': 'This is a traditionally designed rug with a central medallion and intricate floral motifs. It features a rich color palette with deep blacks and vibrant reds complemented by hints of orange and beige. The border contains detailed patterns that enhance its elegance.', 'material': 'likely wool', 'suggested_title': 'Traditional Medallion Wool Rug', 'theme': 'floral, traditional patterns'}"
+9701 Ariana Keshan 2’9″ x 9’9″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A blue and red rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'red', 'white', 'black'], 'style': 'traditional', 'description': 'This traditional rug features intricate floral and curvilinear patterns, with an elegant color scheme, likely handwoven. It is well-suited for narrow spaces such as hallways or as an accent piece in larger rooms.', 'material': 'appears to be wool', 'suggested_title': 'Traditional Floral Hallway Runner Rug', 'theme': 'floral, ornamental'}"
+10806 – Indo Modern.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A rug with a geometric pattern in shades of gray and yellow.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'square', 'dominant_colors': ['beige', 'blue', 'gray'], 'style': 'contemporary', 'description': 'This contemporary rug features a simple yet elegant design, composed of horizontal stripes in a soothing blend of beige, blue, and gray hues. The subtle variation in color provides a relaxed and versatile look suitable for various decor styles. Its clean lines and neutral palette make it an understated yet chic addition to any room.', 'material': 'synthetic fibers', 'suggested_title': 'Soothing Stripes Contemporary Rug', 'theme': 'striped, minimalistic'}"
+10003 Traditional Antique Kirman 10′ x 14’4″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","A grey paisley rug with a floral design in orange, red and yellow.","
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'orange', 'blue'], 'style': 'traditional', 'description': 'This elegant area rug features a traditional design with intricate floral patterns and a faded finish for a timeless look. Ideal for adding a touch of sophistication to any room.', 'material': 'likely wool or a wool blend', 'suggested_title': 'Traditional Floral Area Rug', 'theme': 'floral, intricate, traditional'}"
+8601 – Modern Wool & Silk.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug has a nature theme with a blue and white color scheme.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'white'], 'style': 'floral', 'description': ""This elegant area rug features a sophisticated grey backdrop with a contrasting white floral pattern. It's perfect for adding a touch of natural elegance to any room."", 'material': 'fabric', 'suggested_title': 'Grey and White Floral Area Rug', 'theme': 'nature'}"
+17779 VINTAGE  6.7 X 9.11.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and white rug with a floral design in it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['grey', 'blue', 'ivory', 'beige'], 'style': 'vintage', 'description': 'This rectangular rug features a vintage style with a distressed pattern that gives it a timeless appearance. The intricate design with floral motifs is welcoming and adds sophistication to any room decor. Ideal for spaces looking for a touch of elegance.', 'material': 'polypropylene', 'suggested_title': 'Elegant Vintage Distressed Area Rug', 'theme': 'floral'}"
+5023 – Loma Earth.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A brown and white rug with leaves on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['brown', 'beige'], 'style': 'contemporary', 'description': 'This elegant area rug features a dynamic, abstract pattern that evokes the sense of gentle waves or natural contours found in sand or wood grain. Its soothing brown and beige color palette promotes a warm, inviting atmosphere perfect for modern or minimalistic interiors.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Abstract Contour Waves Area Rug', 'theme': 'abstract, nature-inspired'}"
+10046 Traditional Kazak 9′ x 12′.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A blue and red rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'red', 'beige'], 'style': 'traditional', 'description': 'This intricate, rectangular rug showcases a traditional design with a deep blue field and ornate red and beige border details. The elaborate floral patterns and border motifs exude elegance and time-honored craftsmanship. Its symmetrical layout and medallion centerpiece offers a classic look that compliments various home decors. Ideal for adding warmth and sophisticated charm to any room.', 'material': 'likely wool or synthetic blend', 'suggested_title': 'Traditional Medallion Area Rug', 'theme': 'floral, ornamental'}"
+17798 VINTAGE  7.8 X 10.7.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",The rug in the picture has a geometric pattern and is made of wool.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'grey', 'beige'], 'style': 'vintage', 'description': 'This is a rectangular vintage-style rug featuring a faded pattern. Its design includes elements that suggest it could be a traditional, possibly oriental, rug. Due to the weathered look, it could be either an authentic antique or a contemporary rug designed to appear aged.', 'material': 'unknown', 'suggested_title': 'Vintage-Inspired Faded Oriental Rug', 'theme': 'traditional, possibly oriental, faded design'}"
+12205 CINAR SILK 12′ X 18′.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A very large rug with a lot of designs on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['blue', 'red', 'beige', 'grey'], 'style': 'traditional', 'description': 'This ornate rug exhibits a traditional design with intricate patterns that include floral motifs and border detailing. It is likely handwoven, offering a timeless aesthetic that can complement a variety of interiors.', 'material': 'wool', 'suggested_title': 'Traditional Handwoven Oriental Rug', 'theme': 'floral, ornate, traditional'}"
+16437  3.7 X 13.6.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and blue rug with a diamond pattern is displayed.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangular', 'dominant_colors': ['light blue', 'white', 'gray'], 'style': 'vintage', 'description': ""This is a vintage-style runner rug featuring a faded pattern with intricate designs. The rug's long, narrow shape makes it ideal for hallways or alongside a bed in the bedroom, providing a soft underfoot experience while adding an aesthetic touch to the interior decor."", 'material': 'likely synthetic or cotton blend', 'suggested_title': 'Vintage Elegance Runner Rug', 'theme': 'vintage, floral, ornamental'}"
+Blooming Cherry.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A red and white rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['red', 'white', 'black'], 'style': 'traditional', 'description': 'This traditional-style rug features a rich red background adorned with a delicate pattern of white flowers and black branches. It adds a touch of elegance and warmth to any room setting. Its design exudes a classic charm that compliments various interior decors.', 'material': 'fabric, possibly wool or synthetic blend', 'suggested_title': 'Elegant Floral Traditional Red Rug', 'theme': 'floral, nature'}"
+17628 VINTAGE  7.3 X 10.7.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A grey and white rug with a floral design on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'rectangle', 'dominant_colors': ['gray', 'white', 'black'], 'style': 'traditional', 'description': 'Elegant rectangular area rug with traditional patterning. Features a faded vintage look that creates a timeless feel. Suitable for classic and modern decor styles, offering versatility and a touch of grace to any room.', 'material': 'likely synthetic or wool blend', 'suggested_title': 'Vintage-Inspired Traditional Area Rug', 'theme': 'vintage, traditional, ornamental patterns'}"
+5992 Traditional Persian Tebriz 9’10” x 13’5″.jpeg,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+",A blue and pink rug with a geometric pattern on it.,"
+Assuming you are a store assistant please analyze the item in the picture.
+ Only return the data in a json with the keys shape, dominant_colors, style, description, material, suggested_title, theme. 
+ Please restrict the product description to 100 words. 
+ For theme please return any special characteristics like nature, geometric, abstract etc. 
+","{'shape': 'Rectangle', 'dominant_colors': ['Blue', 'Gold', 'Red'], 'style': 'Persian/Oriental', 'description': 'An elegant handcrafted Oriental rug featuring intricate patterns and a rich color palette. The design displays symmetrical floral motifs and ornamental borders, showcasing traditional craftsmanship and attention to detail.', 'material': 'Likely Wool or Silk', 'suggested_title': 'Traditional Persian-Style Handcrafted Rug', 'theme': 'Floral, Traditional'}"
